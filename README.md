@@ -1,4 +1,4 @@
-## Dark Web Token
+## Dark Web Token - $DWEB
 
 There is a lot more to the world of cryptocurrencies under the surface. 
 The dark web holds secrets that lead to infinite glory in the crypto world. 
