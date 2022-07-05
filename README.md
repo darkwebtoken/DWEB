@@ -1,16 +1,14 @@
-### Hi there 👋
+## Dark Web Token
 
-<!--
-**darkwebtoken/DarkWebToken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+There is a lot more to the world of cryptocurrencies under the surface. 
+The dark web holds secrets that lead to infinite glory in the crypto world. 
+The secrets are out there, you just need to know where to find them. 
+Take a peak inside the dark web and unveil the mysterious paths to success, 
+but don't get lost in it because the darkness will surround you quickly.
 
-Here are some ideas to get you started:
+#WEARETHEREVELATION
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dark Web Newsletter, all the people that will want to read it, will have to buy $DWEB tokens to be able to buy and unlock the Dark Web Newsletter.
+
+### Utilises:
+* Solidity
